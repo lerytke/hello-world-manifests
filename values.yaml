@@ -52,7 +52,7 @@ ingress:
     # kubernetes.io/ingress.class: nginx
     # kubernetes.io/tls-acme: "true"
   hosts:
-    - host: app.demo.atoy.dev
+    - host: app.demo.eal-dtoe.net
   tls: []
   #  - secretName: chart-example-tls
   #    hosts:
